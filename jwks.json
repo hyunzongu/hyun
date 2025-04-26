@@ -2,10 +2,10 @@
   "keys": [
     {
       "kty": "RSA",
-      "kid": "any-key-id",
-      "use": "sig",
       "alg": "RS256",
-      "n": "tsAi2DXvRvSZRyx-kWrSJ37K2ozb5hcBF5dQmOcoBptBzneMxwbKXMrF9HZkpiwvIqWelj5CRJLhjD41NqZn6kFUcxT1eOJayz3Mbj5dXteUOc9QTuUOpWtS-GftZRB48o1tRFpk9-qG58coE6oEJtJM-bdzL1_mPHFC3mNjF9k0Cl651gRKfb-WJylhalfOp2LFMrd6GKCPPLCJyPNimDC-ymEzMoMwHrlo9kpWj6KeGzC8eOQvHE7fUwcOLRhNBAzxOf_UWfhdoJ64O6iS1tGTXL3Y376hMus1_YfJZ1ikWx1EDkfDUW_zhNMxLtNAlqN3I-9mBVGMqRgAx36S2w",
+      "use": "sig",
+      "kid": "server-key",
+      "n": "taQ3bOFKrQ8KdSsCBQhRaXnAH-oCEMXcqGt4EcyHnkFBAyiUtZJgY3QuHld8-E2iEQIfRkfn3z_WQIBELjKsoIDq741Hhpi1WOUQFpkv8_t6e-RB1_irijx6KAE2CYp3hujGL3ouxLSBD3oIJo9umYTBUMfPApVkK6xqWSqMEb32wdXTdDH8c1LnhRl2prxA_ejX4u3tM3bp3idjwSm48CzeqJ5P6DPwTr_3eCGOAADc_DHivGgVIllGXbZGG0OG2araPfc4aSjspjXdsoSigfNS7LkrYMSq3GxIXmWV9J1QQDySMJ-xUsgUL1v6q0QvUbJRyLbuow6pVqMAcT5VXw",
       "e": "AQAB"
     }
   ]
